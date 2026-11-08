@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+pytest
+httpx
+numpy
+torch
+torchvision
